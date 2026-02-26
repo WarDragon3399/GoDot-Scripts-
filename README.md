@@ -14,3 +14,5 @@ it's only work for GDscripts files.
 
 # Other scripts
 Paython script for mass GLB export of static mesh from Unreal Projects you can see details in script file as commets.
+for double UV map in GLB that mostly happen in GLB export from Unreal you can remove via blender script check it below links
+https://github.com/WarDragon3399/Blender-Conversion-Scripts-
